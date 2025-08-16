@@ -31,7 +31,7 @@ function App() {
           <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black leading-tight mb-6 font-montserrat">
             🔥 Última Chance: Desbloqueie o Acesso VIP com Ela por Apenas{' '}
             <span className="text-orange-400 text-4xl sm:text-5xl md:text-6xl lg:text-7xl block mt-2">
-              R$6,90!
+              R$9,90!
             </span>
           </h1>
           
@@ -91,7 +91,7 @@ function App() {
             </div>
             
             <div className="mb-6">
-              <div className="text-xl md:text-2xl font-black text-white mb-4">R$6,90</div>
+              <div className="text-xl md:text-2xl font-black text-white mb-4">R$9,90</div>
               <ul className="text-xs md:text-sm text-gray-400 space-y-2 text-left">
                 <li>• Apenas 1 mês de acesso ao conteúdo</li>
                 <li>• Sem chamada</li>
@@ -101,7 +101,7 @@ function App() {
             </div>
             
             <button 
-              onClick={() => window.open('https://pagfacil.online/checkout/cme0skja400gccvxlghgac7w9?offer=QUABY9I', '_blank')}
+              onClick={() => window.open('https://pagfacil.online/checkout/cmeeutc1t060nn1qwqwmioo1g?offer=110ABFD', '_blank')}
               className="w-full bg-gray-600 hover:bg-gray-500 text-white font-bold py-2 md:py-3 px-4 md:px-6 rounded-xl transition-all duration-300 text-sm md:text-base"
             >
               Quero o acesso básico
@@ -117,7 +117,7 @@ function App() {
             </div>
             
             <div className="mb-6">
-              <div className="text-2xl md:text-3xl font-black text-white mb-4">R$14,50</div>
+              <div className="text-2xl md:text-3xl font-black text-white mb-4">R$14,90</div>
               <ul className="text-xs md:text-sm text-gray-300 space-y-2 text-left">
                 <li>• 3 meses de acesso ao conteúdo</li>
                 <li>• Chamada de 15 minutos com a modelo</li>
@@ -127,7 +127,7 @@ function App() {
             </div>
             
             <button 
-              onClick={() => window.open('https://pagfacil.online/checkout/cme0t51j000ga49ot6c8fh7p3?offer=NH6E6U2', '_blank')}
+              onClick={() => window.open('https://pagfacil.online/checkout/cmeeutqtn064ygdsdh9lgyqx7?offer=IAMXU85', '_blank')}
               className="w-full bg-gradient-to-r from-orange-500 to-red-500 hover:from-orange-600 hover:to-red-600 text-white font-bold py-2 md:py-3 px-4 md:px-6 rounded-xl transition-all duration-300 transform hover:scale-105 text-sm md:text-base animate-pulse"
             >
               Quero o plano completo
@@ -155,7 +155,7 @@ function App() {
             </div>
             
             <div className="mb-6">
-              <div className="text-3xl md:text-4xl font-black text-yellow-400 mb-4">R$39,90</div>
+              <div className="text-3xl md:text-4xl font-black text-yellow-400 mb-4">R$19,90</div>
               <ul className="text-xs md:text-sm text-gray-200 space-y-2 text-left">
                 <li>• <span className="text-yellow-400 font-bold">12 meses</span> de acesso total</li>
                 <li>• 1 chamada exclusiva de <span className="text-yellow-400 font-bold">40 minutos</span></li>
@@ -169,7 +169,7 @@ function App() {
             </div>
             
             <button 
-              onClick={() => window.open('https://pagfacil.online/checkout/cme0t69us00gp49otqfaab81c?offer=1HVL6YE', '_blank')}
+              onClick={() => window.open('https://pagfacil.online/checkout/cmeeuu4dl05v658qc5bdqaxml?offer=JXQK71D', '_blank')}
               className="w-full bg-gradient-to-r from-red-600 via-red-500 to-yellow-500 hover:from-red-700 hover:via-red-600 hover:to-yellow-600 text-white font-black py-3 md:py-4 px-4 md:px-6 rounded-xl transition-all duration-300 transform hover:scale-105 shadow-lg shadow-red-500/50 animate-pulse text-base md:text-lg"
               style={{ 
                 filter: 'drop-shadow(0 10px 20px rgba(255, 0, 0, 0.6))',
