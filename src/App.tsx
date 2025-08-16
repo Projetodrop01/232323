@@ -62,7 +62,7 @@ function App() {
           <div className="relative">
             <div className="w-80 h-[500px] md:w-96 md:h-[600px] bg-gray-800 rounded-3xl overflow-hidden shadow-2xl transform hover:scale-105 transition-transform duration-300 border-4 border-red-800/30">
               <img 
-                src="/Sigam 👉🏻 @melmaiiaafc para mais conteúdos. 💞 copy.jpg" 
+                src="https://i.imgur.com/LdDDCjY.jpeg" 
                 alt="Modelo VIP" 
                 className="w-full h-full object-cover"
                 onError={(e) => {
