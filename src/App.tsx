@@ -62,7 +62,7 @@ function App() {
           <div className="relative">
             <div className="w-64 h-80 sm:w-72 sm:h-96 md:w-80 md:h-[500px] bg-gray-800 rounded-2xl overflow-hidden shadow-2xl border-2 border-red-800/30">
               <img 
-                src="/Feliz com o básico ♥️Deixem um elogio nos comentários 🙈.jpg" 
+                src="/modelo-principal.jpg" 
                 alt="Modelo VIP" 
                 className="w-full h-full object-cover object-center"
                 onError={(e) => {
